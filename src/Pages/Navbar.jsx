@@ -12,7 +12,7 @@ const Navbar = () => {
 
   return (
     <div>
-      <nav className="bg-[#ffffff] fixed w-full z-20 top-0 left-0 shadow-md px-2 md:px-4  body-font font-poppins ">
+      <nav className="bg-[#ffffff] fixed w-full z-20 top-0 left-0 shadow-md px-2 md:px-4 py-6 body-font font-poppins ">
         <div className="flex justify-between md:justify-between items-center  px-4 mx-auto lg:px-5">
           {/* <div className="flex justify-between"> */}
           <NavLink to="/" className="">
