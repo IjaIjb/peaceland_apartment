@@ -41,7 +41,7 @@ const AmenitiesHome = () => {
                   </h4>
                 </div>
 
-                <div>
+                {/* <div>
                   <img
                     src="/images/amenities/WhatsApp Image 2024-06-13 at 03.38.49_dab95998.jpg"
                     alt="location"
@@ -50,7 +50,7 @@ const AmenitiesHome = () => {
                   <h4 className="text-[12px] text-center uppercase">
                     Snooker (located in rooftop lounge)
                   </h4>
-                </div>
+                </div> */}
               </div>
               <NavLink to="/" className=" text-[22px] flex justify-end z-10">
                 <img src="/images/logod2.png" alt="location" className="" />

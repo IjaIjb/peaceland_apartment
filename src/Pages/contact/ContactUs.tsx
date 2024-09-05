@@ -34,7 +34,8 @@ const ContactUs = () => {
               <div className="flex flex-col gap-4 pt-4 z-10">
                 <div className="flex items-center gap-2">
                   <IoPersonCircleSharp className="text-amber-400 w-8 h-8" />
-                  House keeper  - +234 803 823 9223
+                  House keeper  - +2349165589065
+
                 </div>
                 <div className="flex items-center gap-2">
                   <IoPersonCircleSharp className="text-amber-400 w-8 h-8" />
